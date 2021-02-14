@@ -10,7 +10,7 @@ Panels are made from 2"x8" aluminum flat bar blanks.
 Empty Cabinet:
 
 
-<img src="cabinet/cabinet-front.jpg" width="200">
+<img src="Cabinet/cabinet-front.jpg" width="200">
 Empty VCO Panels:
 
 <img src="VCO/empty-VCOpanels.jpg" width="200">
