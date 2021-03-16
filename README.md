@@ -13,3 +13,4 @@ Panels are made from 2"x8" aluminum flat bar blanks.
 
 Barton Quad VCA Mixer:  
 <img src="https://user-images.githubusercontent.com/44103384/111362925-633db100-865d-11eb-8b4a-87b78b7c4a04.jpg" width="400">
+PCB purchased from synthcube
