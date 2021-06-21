@@ -16,3 +16,12 @@ MS-20 type filter from Eddy Bergman. [Link](https://www.eddybergman.com/2019/12/
 
 Resonant Lopass gate from Eddy Bergman. [Link](https://www.eddybergman.com/2020/10/synthesizer-build-part-35-resonant.html)
 
+"Safety Valve" from Look Mum No Computer. [Link](https://www.lookmumnocomputer.com/projects#/the-safety-valve)
+
+Juno Chorus and Sub Oscillator Combo Module (these are seperate modules but I put them behind the same panel) . [Chorus Link](https://www.dsl-man.de/display/MAIN/Roland+Juno+60+Chorus) [Sub Osc Link](https://github.com/holmesrichards/subosc)
+
+Another multiple module "Euro Multipla" from SyntherJack. I made 2 of these boards, using all ins/outs of one of them and only half of the second one. [Link](https://syntherjack.net/euro-multipla/)
+
+Mixer/VCA from Michael Barton. [Link](http://www.bartonmusicalcircuits.com/vcamix/index.html)
+
+Simple A/R from Michael Barton. [Link](http://www.bartonmusicalcircuits.com/simplear/index.html)
