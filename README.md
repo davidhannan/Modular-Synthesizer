@@ -11,7 +11,7 @@ Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
 Update June 21, 2021:
 
-The cabinet for stage 2 of my synth system has been designed and it will be made soon. Stage 1 will stack on top of stage 2 for a very cool look. Here is what it will look like:
+The cabinet for stage 2 of my synth system has been designed and it will be made soon. Stage 1 will stack on top of stage 2 for a very cool look. Here is what stage 2 will look like:
 
 <img src="https://github.com/davidhannan/Modular-Synthesizer/blob/main/Cabinet/synthcab2.JPG" width="400">
 
