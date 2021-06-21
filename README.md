@@ -9,7 +9,10 @@ Mainly from <a href="https://www.eddybergman.com/">Eddy Bergman's</a> website.
 Panel designs made by me in fusion 360 for my 2"x8" module format.
 Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
-Current state as of March 8, 2021:  
+State as of June 3, 2021
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3cdKCSIyJ-nHB7deSdW0Of5BTKYbC0NvOtDrDiWru9wnryiwaKP4qo0EH7ibKnXCGlhsscZpFlHmFwaGc0dM7agGanEwUGoMwNfWmyQb87jr2GTU_XPa1qMAnlTrqdQuisjwRMPthfy18u9q9QNNdVQ=w1292-h970-no?authuser=0" width="400">
+
+State as of March 8, 2021:  
 <img src="https://user-images.githubusercontent.com/44103384/111363460-127a8800-865e-11eb-910f-32535bcc1beb.jpg" width="400">
 
 New as of March 16, 2021:  
