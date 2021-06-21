@@ -24,10 +24,13 @@ Stage 1 is complete! Some pictures of the finished product:
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dZ7Eg3ygeUT23O_9hWzsrBKeMWPDxCZSe83cxvRS6Q5WuSeEHsArs4t8nGx-6Pa9TceQelJcZLcs5littin1xPbQkQPSfDI0g2tdFm7sRXTZvbHFDGc8mXm9EyRIn6noGObfx5L3a7NIXn2awSQbcQ=w727-h969-no?authuser=0" width="400">
 
 
-State as of March 8, 2021:  
-<img src="https://user-images.githubusercontent.com/44103384/111363460-127a8800-865e-11eb-910f-32535bcc1beb.jpg" width="400">
-
 New as of March 16, 2021:  
 Barton Quad VCA Mixer:  
 <img src="https://user-images.githubusercontent.com/44103384/111362925-633db100-865d-11eb-8b4a-87b78b7c4a04.jpg" width="400">  
 PCB purchased from synthcube
+
+
+State as of March 8, 2021:  
+<img src="https://user-images.githubusercontent.com/44103384/111363460-127a8800-865e-11eb-910f-32535bcc1beb.jpg" width="400">
+
+
