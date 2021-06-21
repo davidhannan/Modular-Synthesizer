@@ -9,6 +9,12 @@ Mainly from <a href="https://www.eddybergman.com/">Eddy Bergman's</a> website.
 Panel designs made by me in fusion 360 for my 2"x8" module format.
 Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
+Update June 21, 2021:
+
+The cabinet for stage 2 of my synth system has been designed and it will be made soon. Here is what it will look like:
+
+<img src="https://github.com/davidhannan/Modular-Synthesizer/blob/main/Cabinet/synthcab2.JPG" width="400">
+
 Update June 3, 2021:
 
 Stage 1 is complete! Some pictures of the finished product:
