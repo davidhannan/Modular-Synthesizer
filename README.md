@@ -15,11 +15,11 @@ I never did end up making that fancy cabinet, but I did make two more of the squ
 
 Here is a picture of two full cabinets, featuring my keystep pro sequencer, tape machine/headphone tube amp, and a <a href="https://github.com/davidhannan/Akai-M8-Pre-Mod">mic/guitar pre amp</a> I just finished up.
 
-<img src="https://user-images.githubusercontent.com/44103384/154610986-1bd9683c-5289-4387-afed-2036399c9af4.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/44103384/154610986-1bd9683c-5289-4387-afed-2036399c9af4.jpg" width="800">
 
 The inside of cabinet number 2.
 
-<img src="https://user-images.githubusercontent.com/44103384/154611508-833c9f3f-bb85-4a0e-86d9-2a9c0c9351b3.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/44103384/154611508-833c9f3f-bb85-4a0e-86d9-2a9c0c9351b3.jpg" width="800">
 
 ## Update June 21, 2021:
 
@@ -31,15 +31,15 @@ The cabinet for stage 2 of my synth system has been designed and it will be made
 
 Stage 1 is complete! Some pictures of the finished product:
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3dhnv9o77lgiU_hrYIIkHtPelrZgruJqKJLZ-UNO7OZmOa9DfHZyrlTlBTFO9EchBC8f7kdaf_DEBo_CZDL8r8QmlxYaFcMEHZVAu2wyES-rWSSwxJI2X3MZwfkd8Drs0nTgQTicqi2Ho_kENsIBJZC=w727-h969-no?authuser=0" width="400">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dhnv9o77lgiU_hrYIIkHtPelrZgruJqKJLZ-UNO7OZmOa9DfHZyrlTlBTFO9EchBC8f7kdaf_DEBo_CZDL8r8QmlxYaFcMEHZVAu2wyES-rWSSwxJI2X3MZwfkd8Drs0nTgQTicqi2Ho_kENsIBJZC=w727-h969-no?authuser=0" width="800">
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3cdKCSIyJ-nHB7deSdW0Of5BTKYbC0NvOtDrDiWru9wnryiwaKP4qo0EH7ibKnXCGlhsscZpFlHmFwaGc0dM7agGanEwUGoMwNfWmyQb87jr2GTU_XPa1qMAnlTrqdQuisjwRMPthfy18u9q9QNNdVQ=w1292-h970-no?authuser=0" width="400">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3cdKCSIyJ-nHB7deSdW0Of5BTKYbC0NvOtDrDiWru9wnryiwaKP4qo0EH7ibKnXCGlhsscZpFlHmFwaGc0dM7agGanEwUGoMwNfWmyQb87jr2GTU_XPa1qMAnlTrqdQuisjwRMPthfy18u9q9QNNdVQ=w1292-h970-no?authuser=0" width="800">
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3dRQ_bmRBNpApjbc9fjQi8LF1M_SEwAqWylcHz0xRpmCpIaD54UhfKeJzDmZfPQtlc9ym9lc20ZI1s7jTNdb-lGoWApxX3h_rQUCZh0E5mrb4iMmdmRj8awBs7qRr37CVIZIrh-kAmal7H1q4qBQXKB=w1292-h970-no?authuser=0" width="400">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dRQ_bmRBNpApjbc9fjQi8LF1M_SEwAqWylcHz0xRpmCpIaD54UhfKeJzDmZfPQtlc9ym9lc20ZI1s7jTNdb-lGoWApxX3h_rQUCZh0E5mrb4iMmdmRj8awBs7qRr37CVIZIrh-kAmal7H1q4qBQXKB=w1292-h970-no?authuser=0" width="800">
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3d6M-zY8w0-shaOGrwc-TkMvlY15O81aHyjnri_xU-dApmHPZ7adI8I2fsoc2RHGV1Qi1fFCXVPR_Siqjz_r-m4bT4SoeYXoz_JnaQPybeM5OO-X27qBietXP7yufUqq02BBVj0dQE5cWv-aky3usV8=w727-h969-no?authuser=0" width="400">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3d6M-zY8w0-shaOGrwc-TkMvlY15O81aHyjnri_xU-dApmHPZ7adI8I2fsoc2RHGV1Qi1fFCXVPR_Siqjz_r-m4bT4SoeYXoz_JnaQPybeM5OO-X27qBietXP7yufUqq02BBVj0dQE5cWv-aky3usV8=w727-h969-no?authuser=0" width="800">
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3dZ7Eg3ygeUT23O_9hWzsrBKeMWPDxCZSe83cxvRS6Q5WuSeEHsArs4t8nGx-6Pa9TceQelJcZLcs5littin1xPbQkQPSfDI0g2tdFm7sRXTZvbHFDGc8mXm9EyRIn6noGObfx5L3a7NIXn2awSQbcQ=w727-h969-no?authuser=0" width="400">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dZ7Eg3ygeUT23O_9hWzsrBKeMWPDxCZSe83cxvRS6Q5WuSeEHsArs4t8nGx-6Pa9TceQelJcZLcs5littin1xPbQkQPSfDI0g2tdFm7sRXTZvbHFDGc8mXm9EyRIn6noGObfx5L3a7NIXn2awSQbcQ=w727-h969-no?authuser=0" width="800">
 
 
 ## New as of March 16, 2021:  
