@@ -9,6 +9,12 @@ Full List of Modules used: [Modules](https://github.com/davidhannan/Modular-Synt
 Panel designs made by me in fusion 360 for my 2"x8" module format.
 Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
+## Update February 17, 2021
+
+I never did end up making that fancy cabinet, but I did make two more of the square ones! I filled out one of them and I'm still working on the other. So many new modules in here, too many to list right now. I'll get around to it at some point I'm sure. I even got into some surface mount stuff in here. Here is a picture of two full cabinets, featuring my keystep pro sequencer, tape machine/headphone tube amp, and a <a href="https://github.com/davidhannan/Akai-M8-Pre-Mod">mic/guitar pre amp</a> I just finished up.
+
+<img src="https://user-images.githubusercontent.com/44103384/154610986-1bd9683c-5289-4387-afed-2036399c9af4.jpg" width="400">
+
 ## Update June 21, 2021:
 
 The cabinet for stage 2 of my synth system has been designed and it will be made soon. Stage 1 will stack on top of stage 2 for a very cool look. Here is what stage 2 will look like:
