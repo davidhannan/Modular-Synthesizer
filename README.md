@@ -11,9 +11,15 @@ Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
 ## Update February 17, 2021
 
-I never did end up making that fancy cabinet, but I did make two more of the square ones! I filled out one of them and I'm still working on the other. So many new modules in here, too many to list right now. I'll get around to it at some point I'm sure. I even got into some surface mount stuff in here. Here is a picture of two full cabinets, featuring my keystep pro sequencer, tape machine/headphone tube amp, and a <a href="https://github.com/davidhannan/Akai-M8-Pre-Mod">mic/guitar pre amp</a> I just finished up.
+I never did end up making that fancy cabinet, but I did make two more of the square ones! I filled out one of them and I'm still working on the other. So many new modules in here, too many to list right now. I'll get around to it at some point I'm sure. I even got into some surface mount stuff in here. 
+
+Here is a picture of two full cabinets, featuring my keystep pro sequencer, tape machine/headphone tube amp, and a <a href="https://github.com/davidhannan/Akai-M8-Pre-Mod">mic/guitar pre amp</a> I just finished up.
 
 <img src="https://user-images.githubusercontent.com/44103384/154610986-1bd9683c-5289-4387-afed-2036399c9af4.jpg" width="400">
+
+The inside of cabinet number 2.
+
+<img src="https://user-images.githubusercontent.com/44103384/154611508-833c9f3f-bb85-4a0e-86d9-2a9c0c9351b3.jpg" width="400">
 
 ## Update June 21, 2021:
 
