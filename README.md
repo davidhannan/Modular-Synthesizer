@@ -4,7 +4,7 @@ A DIY modular synthesizer.
 
 Made from module circuit designs found from various places online.
 
-Full List of Modules used: [Modules](https://github.com/davidhannan/Modular-Synthesizer/tree/main/Modules)
+Full List of Modules used: [Modules](https://github.com/davidhannan/Modular-Synthesizer/tree/main/Modules) (WIP)
 
 Panel designs made by me in fusion 360 for my 2"x8" module format.
 Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
