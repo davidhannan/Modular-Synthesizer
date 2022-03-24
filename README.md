@@ -9,7 +9,27 @@ Full List of Modules used: [Modules](https://github.com/davidhannan/Modular-Synt
 Panel designs made by me in fusion 360 for my 2"x8" module format.
 Panels are made from 2"x8"x1/8" aluminum flat bar blanks.
 
-## Update February 17, 2021
+## Update March 24, 2022
+
+How the whole system looks nowadays:
+<img src="https://user-images.githubusercontent.com/44103384/160003610-ab86e698-5795-4f6e-8272-ca411d38c3fe.jpg" width="800">
+
+For some reason I thought it would be great if I could start adapting euro modules into my system. Doing so has been quite an adventure in learning how to solder SMD components and learning how to flash a program onto a microcontroller, and to be honest it hasn't been so bad. I actually learned to enjoy it quite a bit! The first one I made was the <a href="https://ornament-and-cri.me/">Ornament and crime</a> which went together pretty smoothly and even started working right away! It can bee seen at the very bottom right of the system shot. Next I went for a <a href="https://mutable-instruments.net/modules/braids/">Mutable Instruments Braids</a>. This one wasn't quite as easy as the OC, but I got it working in the end! The main issue I encountered was that I didn't realize that since the PCB that I ordered ended up being for an older version of the module, I had to provide my own +5 volt source to the module along with the +/- 12v that most modules normally require. I ended up throwing together a small 5v regulator using a 7805 and a few capacitors on a piece of stripboard which I hot-glued to the back of board.
+
+Some pictures of the Braids module:
+
+<img src="https://user-images.githubusercontent.com/44103384/160003586-30a52831-3766-4b49-980c-342ed5fd48d1.jpg" width="800">
+
+This one shows the 5v regulator that I had to make:
+<img src="https://user-images.githubusercontent.com/44103384/160003602-cb57f0d2-9b56-4fc4-95df-d9ba51d6792d.jpg" width="800">
+
+I also have been getting pretty good etching my own PCBs. Heres one for a <a href="http://yusynth.net/Modular/EN/METALIZER/">Yusynth Metalizer</a> that I finished recently. It wasn't finished in the picture but I think it looks great!
+
+<img src="https://user-images.githubusercontent.com/44103384/160003628-4d96be39-ba8e-4869-ad9b-de84ec0380a9.jpg" width="800">
+
+<img src="https://user-images.githubusercontent.com/44103384/160003617-80ae3fdc-441f-4e12-b321-ae7a2e86dad0.jpg" width="800">
+
+## Update February 17, 2022
 
 I never did end up making that fancy cabinet, but I did make two more of the square ones! I filled out one of them and I'm still working on the other. So many new modules in here, too many to list right now. I'll get around to it at some point I'm sure. I even got into some surface mount stuff in here. 
 
